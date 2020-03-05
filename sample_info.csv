@@ -1,0 +1,14 @@
+﻿SampleID,volume,letter,sampletype,depth(ft),distance_ww
+w-1-75mL,75mL,W,wastewater,unknown,influent
+w-2-300mL,300mL,W,wastewater,unknown,primary_effluent
+w-3-200mL,200mL,W,wastewater,unknown,secondary_effluent
+w-4-250mL,250mL,W,wastewater,unknown,after_UV_disinfection
+A1,300mL,A,lakewater,20-22ft,200ft
+A2,300mL,A,lakewater,10ft,200ft
+A3,300mL,A,lakewater,surface,200ft
+B1,300mL,B,lakewater,20-22ft,400ft
+B2,300mL,B,lakewater,10ft,400ft
+B3,300mL,B,lakewater,surface,400ft
+C1,300mL,C,lakewater,20-22ft,600ft
+C2,300mL,C,lakewater,10ft,600ft
+C3,300mL,C,lakewater,surface,600ft
